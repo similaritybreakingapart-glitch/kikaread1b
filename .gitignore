@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.gradle/
+build/
+android/.gradle/
+android/app/build/
+android/build/
+*.apk
+.DS_Store
+*.log
